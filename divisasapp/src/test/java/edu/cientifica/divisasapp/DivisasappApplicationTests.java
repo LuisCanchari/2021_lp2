@@ -1,10 +1,10 @@
-package edu.cientifica.appdemo;
+package edu.cientifica.divisasapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AppDemo01ApplicationTests {
+class DivisasappApplicationTests {
 
 	@Test
 	void contextLoads() {

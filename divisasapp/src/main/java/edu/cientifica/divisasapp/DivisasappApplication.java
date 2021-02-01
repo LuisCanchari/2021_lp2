@@ -1,13 +1,13 @@
-package edu.cientifica.appdemo;
+package edu.cientifica.divisasapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AppDemo01Application {
+public class DivisasappApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AppDemo01Application.class, args);
+		SpringApplication.run(DivisasappApplication.class, args);
 	}
 
 }
